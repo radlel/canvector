@@ -19,7 +19,7 @@ python can_generator.py
 
 ### _Main window_
 
-![](resources/readme/main_window.png)
+![](resources/readme/main_window.PNG)
 
 - To enable or disable sending messages use buttons '_Start simulation_' and '_Stop simulation_'.
 - To modify or delete message use buttons placed on the right side of '_payload_' column.
