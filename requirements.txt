@@ -1,0 +1,11 @@
+aenum==3.1.11
+dearpygui==0.6.415
+numpy==1.22.4
+pandas==1.4.2
+python-can==3.3.4
+python-dateutil==2.8.2
+pytz==2022.1
+schedule==1.0.0
+six==1.16.0
+windows-curses==2.3.0
+wrapt==1.14.1
